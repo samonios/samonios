@@ -1,40 +1,38 @@
-# ¡Hola! 👋
+# ¡Hola! 👋 Soy Sergio Valero
 
 > Estás leyendo la versión en 🇪🇸 **Español** // Also available in 🇬🇧 **English** [Read here](#english)
 
 #### `-> @Samonios `
-> Utilizo este alias porque conecta dos cosas importantes para mí. **Samonios** es una palabra gala documentada en el calendario de Coligny y vinculada a **La Tradición Celta** de Samhain, que está asociada al comienzo de noviembre. Y, casualidades de la vida (o no), el **1 De Noviembre** es también el día en que nací.
-> 
-> Este nick une: mi esencia + mi fecha de nacimiento.
+> Utilizo este alias porque conecta dos cosas muy importantes para mí. **Samonios** es una palabra gala documentada en el calendario de Coligny y vinculada a la **tradición celta** de Samain, asociada al comienzo de noviembre. Y, casualmente (o no), el 1 de noviembre es también el día en que nací.
+Un nick que agrupa mi esencia y mi fecha de nacimiento.
 
 
-## 🧭 Sobre mi, Sergio Valero.
+## 🧭 Sobre mi.
 
-> **Diseñador gráfico y creativo publicitario durante más de 20 años.** Hoy estoy construyendo una nueva trayectoria técnica desde los fundamentos del software, los sistemas y la infraestructura en **42 Madrid**.
+Durante más de 20 años he sido **diseñador gráfico y creativo publicitario.** En diferentes momentos de mi vida, como empresario o jefe de equipo, comprendí el valor de entender primero el problema, darle contexto y encontrar las necesidades que hay detrás antes de plantear una solución.
 
-Mi experiencia trabajando con proyectos, negocios y clientes me enseñó a entender primero el problema, su contexto y las necesidades que hay detrás antes de plantear una solución.
+Con este experiencia, hoy me estoy construyendo una nueva trayectoria en **42 Madrid**. Más técnica y desde los fundamentos del software, sistemas e infraestructuras.
 
----
 
-### 🧠 Cómo abordo los problemas
+## 🧠 Resolución de problemas.
 
-No busco la solución más sofisticada, sino la más lógica.
+No busco la solución más elaborada, sino la más eficiente bajo los siguientes parámetros:
 
 * 🔍 **Entender la raíz:** Divido los problemas complejos en partes más pequeñas para identificar la causa real, no solo el síntoma.
-* 📐 **Complejidad justificada:** Prefiero la claridad y la eficiencia. Acepto la complejidad cuando aporta un valor real.
-* 🔁 **Probar y ajustar:** Formulo hipótesis, las pongo a prueba y cambio mi modelo cuando la realidad demuestra que estaba equivocado.
+* 📐 **Complejidad justificada:** Antepongo la claridad y la eficiencia. La complejidad solo es válida si aporta un valor real.
+* 🔁 **Probar y ajustar:** Si la lógica no tiene huecos, formulo hipótesis y la pongo a prueba.
 
 ---
 
-### 🛠️ Cómo trabajo técnicamente
+### 🛠️ Trabajo técnico
 
-Para mí, escribir código no es suficiente; necesito comprender qué ocurre detrás de él.
+Para mí, escribir código no es suficiente; y dominar muchos lenguajes tiene un valor muy limitado. A día de hoy le doy más valor a la comprensión del problema y saber qué ocurre detrás de él. El debugging forma parte de mi proceso diario.
 
 ```text
 Entender ➔ Estructurar ➔ Construir ➔ Probar ➔ Depurar ➔ Refinar
 ```
 
-El debugging forma parte del proceso. Cuando algo falla, intento entender por qué, revisar el modelo que había construido y conservar aquello que sigue siendo válido antes de cambiar de dirección.
+ Cuando algo falla, intento entender por qué, revisar el modelo que había construido y conservar aquello que sigue siendo válido antes de cambiar de dirección.
 
 ---
 
