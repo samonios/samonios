@@ -1,15 +1,14 @@
-# ¡Hola! 👋 Soy Sergio Valero
+# ¡Hola! 👋
 
-> Estás leyendo la versión en 🇪🇸 **Español** // Also available in 🇬🇧 **English** [Read](#english)
+> Estás leyendo la versión en 🇪🇸 **Español** // Also available in 🇬🇧 **English** [Read here](#english)
 
-#### `_@Samonios `
-> Utilizo este alias porque conecta dos cosas muy importantes para mí. **Samonios** es una palabra gala documentada en el calendario de Coligny y vinculada a la tradición celta de Samain, asociada al comienzo de noviembre. Y, casualmente (o no), el **1 de noviembre** es también el día en que nací.
+#### `-> @Samonios `
+> Utilizo este alias porque conecta dos cosas importantes para mí. **Samonios** es una palabra gala documentada en el calendario de Coligny y vinculada a **La Tradición Celta** de Samhain, que está asociada al comienzo de noviembre. Y, casualidades de la vida (o no), el **1 De Noviembre** es también el día en que nací.
+> 
+> Este nick une: mi esencia + mi fecha de nacimiento.
 
-Un nombre que lleva mi esencia y mi fecha especial.
 
----
-
-### 🧭 Sobre mí
+## 🧭 Sobre mi, Sergio Valero.
 
 > **Diseñador gráfico y creativo publicitario durante más de 20 años.** Hoy estoy construyendo una nueva trayectoria técnica desde los fundamentos del software, los sistemas y la infraestructura en **42 Madrid**.
 
