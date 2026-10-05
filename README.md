@@ -10,9 +10,11 @@ Un hermoso nick que agrupa mi esencia y mi fecha de nacimiento.
 
 ## 🧭 Sobre mí
 
-Durante más de 20 años he sido **diseñador gráfico y creativo publicitario**. En diferentes momentos de mi vida, como empresario o jefe de equipo, comprendí el valor de entender primero el problema, darle contexto y encontrar las necesidades que hay detrás antes de plantear una solución.
+Durante más de 20 años he sido **diseñador gráfico y creativo publicitario**.
 
-Esa experiencia sigue presente en el rumbo de **mi nueva trayectoria**. Una evolución hacia un perfil más técnico, dentro de **42 Madrid**, construido desde los fundamentos del software, los sistemas y la infraestructura.
+Y en diferentes momentos de mi vida, ya sea como empresario o jefe de equipo, comprendí el valor de entender primero el problema, darle contexto y encontrar las necesidades que hay detrás antes de plantear una solución.
+
+Todas estas experiencias siguen presentes en el rumbo de **mi nueva trayectoria**. Una evolución hacia un perfil más técnico, dentro de **42 Madrid**, construido desde los fundamentos del software, los sistemas y la infraestructura.
 
 ## 🧠 Resolución de problemas
 
