@@ -1,5 +1,13 @@
-## Hi there 👋
+## Sergio Valero 👋
+>Elige tu idioma: [🇪🇸 Spanish](#español) / Choose your language: [🇬🇧 English](#english)
 
+ 
+## Samonios
+Samonios is a Gaulish name preserved in the Coligny calendar, related to the Celtic Samain tradition associated with the beginning of November. November 1st is also my birthday.
+
+**Samonios** is a Gaulish name preserved in the Coligny Calendar, a Celtic lunisolar calendar from Roman Gaul. It is related to the Celtic *Samain* tradition associated with the beginning of November.
+
+I use **Samonios** as my personal alias — and November 1st happens to be my birthday.
 <!--
 **samonios/samonios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
