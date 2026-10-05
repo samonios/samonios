@@ -1,11 +1,13 @@
 # Sergio Valero 👋
 
->Leeme 🇪🇸 Español or choose to read in 🇬🇧 English [Read](#english)
-
+> Elige leer en 🇪🇸 Español // or choose to read in 🇬🇧 English [Read](#english)
  
-#### ¿Por qué el nombre de Samonios?
+#### ¿Por qué Samonios?
+Utilizo **Samonios** como alias personal porque representa una parte de mí. Es un nombre galo que se relaciona con la tradición celta de Samhain, asociada al comienzo de noviembre. Y mi cumpleaños es el **1 de noviembre**.
 
-I use **Samonios** as my personal alias because it is a Gaulish name preserved in the Coligny Calendar, related to the Celtic Samain tradition associated with the beginning of November. November 1st is also my birthday.
+#### ¿Why Samonios?
+I use **Samonios** as a personal alias because it represents a part of me. It is a Gaulish name linked to the Celtic tradition of Samhain, associated with the beginning of November. And my birthday is **November 1st**.
+
 
 <!--
 **samonios/samonios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
