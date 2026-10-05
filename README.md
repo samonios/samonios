@@ -4,19 +4,19 @@
 
 #### `-> @Samonios`
 
-> Utilizo este alias porque conecta dos cosas muy importantes para mí. **Samonios** es una palabra gala documentada en el calendario de Coligny y vinculada a la **tradición celta** de Samain, asociada al comienzo de noviembre. Y, casualmente (o no), el 1 de noviembre es también el día en que nací.
+> Utilizo este alias porque conecta dos cosas muy importantes para mí. **Samonios** es una palabra gala documentada en el calendario de Coligny y está vinculada a la **tradición celta** de Samain, asociada al comienzo de noviembre. Y, casualmente (o no), el **1 de noviembre** es también el día en que nací.
 
-Un nick que agrupa mi esencia y mi fecha de nacimiento.
+Un hermoso nick que agrupa mi esencia y mi fecha de nacimiento.
 
 ## 🧭 Sobre mí
 
 Durante más de 20 años he sido **diseñador gráfico y creativo publicitario**. En diferentes momentos de mi vida, como empresario o jefe de equipo, comprendí el valor de entender primero el problema, darle contexto y encontrar las necesidades que hay detrás antes de plantear una solución.
 
-Esta experiencia está marcando el rumbo de mi nueva trayectoria en **42 Madrid**: una evolución hacia un perfil más técnico, construido desde los fundamentos del software, los sistemas y la infraestructura.
+Ese conocimiento sigue presente en el rumbo de mi nueva trayectoria dentro de **42 Madrid**. Evolucionando hacia un perfil más técnico, y construido desde los fundamentos del software, los sistemas y la infraestructura.
 
 ## 🧠 Resolución de problemas
 
-No busco la solución más técnica y elaborada, sino la más eficiente bajo estos parámetros:
+¿Cómo me enfrento a ellos? No busco la solución más técnica y elaborada, sino la más eficiente bajo estos parámetros:
 
 * 🔍 **Entender la raíz:** Divido los problemas complejos en partes más pequeñas para identificar la causa real, y no solo el síntoma.
 * 📐 **Complejidad justificada:** Antepongo la claridad y la eficiencia. La complejidad solo es válida si aporta un valor real.
@@ -38,20 +38,20 @@ Entender ➔ Estructurar ➔ Construir ➔ Probar ➔ Depurar ➔ Refinar
 
 Estoy orientando mi carrera hacia **Sistemas, Infraestructura, Networking y Seguridad**.
 
-Me interesa entender qué ocurre por debajo de las abstracciones: cómo funcionan los sistemas, cómo se comunican las máquinas y cómo se construye infraestructura fiable, eficiente y segura.
+Y para ello, quiero dominar lo qué ocurre por debajo de las abstracciones. Es decir: cómo funcionan los sistemas, cómo se comunican las máquinas y cómo se construye infraestructura fiable, eficiente y segura. Estos son los hitos que tengo marcados para completar:
 
-**Mi prioridad es construir bases sólidas antes de especializarme.** No busco acumular lenguajes o tecnologías, sino avanzar progresivamente hacia niveles más profundos del stack tecnológico.
+* [x] 💻 **C y bajo nivel:** memoria, punteros, estructuras de datos, algoritmos y gestión de recursos.
+* [ ] ⚙️ **Sistemas:** procesos, *file descriptors*, concurrencia, sistemas de archivos e IPC.
+* [ ] 🐍 **Python:** automatización, tooling y gestión de sistemas e infraestructura.
+* [ ] 🌐 **Networking e infraestructura:** comunicación entre sistemas, servicios, arquitectura y administración.
+* [ ] 🔐 **Seguridad:** protección y resiliencia aplicada a sistemas, redes e infraestructura.
+* [ ] 🧩 **Especialización futura:** sistemas distribuidos, almacenamiento, bases de datos y **AI Infrastructure**.
 
-### 🏫 Mi presente: Common Core en 42 Madrid
+
+### 🏁 Mi presente: Common Core en 42 Madrid
 
 Estoy recorriendo el **Common Core de 42**, construyendo progresivamente mi base técnica:
 
-* 💻 **C y bajo nivel:** memoria, punteros, estructuras de datos, algoritmos y gestión de recursos.
-* ⚙️ **Sistemas:** procesos, *file descriptors*, concurrencia, sistemas de archivos e IPC.
-* 🐍 **Python:** automatización, tooling y gestión de sistemas e infraestructura.
-* 🌐 **Networking e infraestructura:** comunicación entre sistemas, servicios, arquitectura y administración.
-* 🔐 **Seguridad:** protección y resiliencia aplicada a sistemas, redes e infraestructura.
-* 🧩 **Especialización futura:** sistemas distribuidos, almacenamiento, bases de datos y **AI Infrastructure**.
 
 **C → Sistemas → Python/Automatización → Networking → Infraestructura → Seguridad**
 
