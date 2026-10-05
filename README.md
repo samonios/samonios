@@ -18,7 +18,7 @@ Todas estas experiencias siguen presentes en el rumbo de **mi nueva trayectoria*
 
 ## 🧠 Resolución de problemas
 
-¿Cómo me enfrento a ellos? No busco la solución más técnica y elaborada, sino la más eficiente bajo estos parámetros:
+¿Cómo me enfrento a ellos? No busco la solución más técnica y elaborada, sino la más eficiente bajo las premisas de:
 
 * 🔍 **Entender la raíz:** Divido los problemas complejos en partes más pequeñas para identificar la causa real, y no me centro en "parchear" el síntoma.
 * 📐 **Complejidad justificada:** Antepongo la claridad y la eficiencia. La complejidad solo es válida si aporta un valor real.
