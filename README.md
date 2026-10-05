@@ -4,6 +4,7 @@
 
 #### `-> @Samonios `
 > Utilizo este alias porque conecta dos cosas muy importantes para mí. **Samonios** es una palabra gala documentada en el calendario de Coligny y vinculada a la **tradición celta** de Samain, asociada al comienzo de noviembre. Y, casualmente (o no), el 1 de noviembre es también el día en que nací.
+
 Un nick que agrupa mi esencia y mi fecha de nacimiento.
 
 
@@ -11,30 +12,29 @@ Un nick que agrupa mi esencia y mi fecha de nacimiento.
 
 Durante más de 20 años he sido **diseñador gráfico y creativo publicitario.** En diferentes momentos de mi vida, como empresario o jefe de equipo, comprendí el valor de entender primero el problema, darle contexto y encontrar las necesidades que hay detrás antes de plantear una solución.
 
-Con este experiencia, hoy me estoy construyendo una nueva trayectoria en **42 Madrid**. Más técnica y desde los fundamentos del software, sistemas e infraestructuras.
+Y esta experiencia, está marcando el rumbo de mi nueva trayectoria en **42 Madrid**. Más técnica y bajo los fundamentos del software, sistemas e infraestructuras.
 
 
 ## 🧠 Resolución de problemas.
 
-No busco la solución más elaborada, sino la más eficiente bajo los siguientes parámetros:
+No busco la solución más técnica y elaborada, sino la más eficiente bajo estos parámetros:
 
-* 🔍 **Entender la raíz:** Divido los problemas complejos en partes más pequeñas para identificar la causa real, no solo el síntoma.
+* 🔍 **Entender la raíz:** Divido los problemas complejos en partes más pequeñas para identificar la causa real, y no solo el síntoma.
 * 📐 **Complejidad justificada:** Antepongo la claridad y la eficiencia. La complejidad solo es válida si aporta un valor real.
-* 🔁 **Probar y ajustar:** Si la lógica no tiene huecos, formulo hipótesis y la pongo a prueba.
+* 🔁 **Probar y ajustar:** Se testea con casos extremos y formulo hipótesis de error.
 
 ---
 
-### 🛠️ Trabajo técnico
+### 🛠️ Lógicas y algoritmos.
 
-Para mí, escribir código no es suficiente; y dominar muchos lenguajes tiene un valor muy limitado. A día de hoy le doy más valor a la comprensión del problema y saber qué ocurre detrás de él. El debugging forma parte de mi proceso diario.
+Para mí, escribir código no es suficiente. En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, dominar muchos lenguajes tiene un valor cada vez más limitado. Lo que realmente valoro es comprender el problema, entender qué ocurre detrás de él y tener la capacidad de razonar sobre cada capa del sistema. El debugging no es una fase posterior: forma parte de mi proceso diario de aprendizaje y desarrollo.
 
 ```text
 Entender ➔ Estructurar ➔ Construir ➔ Probar ➔ Depurar ➔ Refinar
 ```
 
- Cuando algo falla, intento entender por qué, revisar el modelo que había construido y conservar aquello que sigue siendo válido antes de cambiar de dirección.
+ Estrictamente en este orden.
 
----
 
 ### 🏫 Mi presente: Common Core en 42 Madrid
 
