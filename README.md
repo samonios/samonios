@@ -1,11 +1,12 @@
 # Sergio Valero 👋
 
-> Elige leer en 🇪🇸 Español // or choose to read in 🇬🇧 English [Read](#english)
- 
-#### ¿Por qué Samonios?
+> Puedes leerme en 🇪🇸 Español  
+> Or choose to read in 🇬🇧 English [Read](#english)
+---
+#### ¿Qué es Samonios?
 Utilizo **Samonios** como alias personal porque representa una parte de mí. Es un nombre galo que se relaciona con la tradición celta de Samhain, asociada al comienzo de noviembre. Y mi cumpleaños es el **1 de noviembre**.
 
-#### ¿Why Samonios?
+#### ¿What is Samonios?
 I use **Samonios** as a personal alias because it represents a part of me. It is a Gaulish name linked to the Celtic tradition of Samhain, associated with the beginning of November. And my birthday is **November 1st**.
 
 
