@@ -1,10 +1,12 @@
 # Sergio Valero 👋
 
-> Puedes leerme en 🇪🇸 Español  
-> Or choose to read in 🇬🇧 English [Read](#english)
+#### `_@Samonios `
+> Utilizo este alias porque tiene un gran significado. **Samonios** es una palabra gala documentada en el calendario de Coligny y vinculada a la **tradición celta** de Samain, que se asocia al comienzo de noviembre. Y, casualmente (o no), **el 1 de noviembre** es también el día en que nací. Un nombre que lleva mi esencia y mi fecha especial.
+
+
 ---
-#### ¿Qué es Samonios?
-Utilizo **Samonios** como alias personal porque representa una parte de mí. Es un nombre galo que se relaciona con la tradición celta de Samhain, asociada al comienzo de noviembre. **1 de noviembre** es mi cumpleaños.
+> Estás leyendo la versión en 🇪🇸 Español // Also available in 🇬🇧 English [Read](#english)
+
 
 ## Sobre mí
 
