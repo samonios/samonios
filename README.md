@@ -58,7 +58,7 @@ Estos son los hitos de mi ruta:
 ---
 #### / 🏁 Inicio / 🏆 Logros / 💾 Proyectos.
 
-* El **29 de julio de 2026** completé el proceso de selección de la [Piscina 42 Madrid](https://www.42madrid.com/piscina/), con una puntuación de ⚡ **9,18**, y quedando en el **puesto #6** entre **206 participantes**.
+* El **29 de julio de 2026** completé el proceso de selección [Piscina 42 Madrid](https://www.42madrid.com/piscina/), con una puntuación final de ⚡ **9,18**. Quedé en el **puesto #6** entre los **206 participantes**.
 * El 21 de Septiembre del mismo año comenzó mi Kick-Off.
 * 
 
