@@ -4,11 +4,11 @@
 
 #### `-> @Samonios`
 
-> Utilizo este alias porque conecta agrupa mi esencia y mi fecha de nacimiento.
+> Utilizo este alias porque agrupa **mi esencia y mi fecha de nacimiento**.
 >
-> **Samonios** es una palabra gala documentada en el calendario de Coligny que está vinculada a la **tradición celta** de Samain. Asociada al comienzo de noviembre. Y, casualmente (o no), el **1 de noviembre** es también el día en que nací.
+> **Samonios** es una palabra gala documentada en el calendario de Coligny que está vinculada a **la tradición celta** de Samain. Asociada al comienzo del mes de noviembre. Y casualmente (o no), el **1 de noviembre** es también el día en que nací.
 
-Es un hermoso nick que agrupa mi esencia y mi fecha de nacimiento.
+Un hermoso nick que cuenta una bonita historia.
 
 ## 🧭 Sobre mí
 
@@ -16,7 +16,7 @@ Durante más de 20 años he sido **diseñador gráfico y creativo publicitario**
 
 Y en diferentes momentos de mi vida, ya sea como empresario o jefe de equipo, comprendí el valor de entender primero el problema, darle contexto y encontrar las necesidades que hay detrás antes de plantear una solución.
 
-Todas estas experiencias siguen presentes en el rumbo de **mi nueva trayectoria**. Una evolución hacia un perfil más técnico, dentro de **42 Madrid**, construido desde los fundamentos del software, los sistemas y la infraestructura.
+Estas experiencias son la bases del rumbo de **mi nueva trayectoria**. Una evolución hacia un perfil más técnico, dentro de **42 Madrid**, construido desde los fundamentos del software, los sistemas y la infraestructura.
 
 ## 🧠 Resolución de problemas
 
