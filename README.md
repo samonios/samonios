@@ -16,7 +16,9 @@ Durante más de 20 años he sido **diseñador gráfico y creativo publicitario**
 
 Y en diferentes momentos de mi vida, ya sea como empresario o jefe de equipo, comprendí el valor de primero entender el problema, darle contexto, y encontrar las necesidades que hay detrás antes de plantear una solución.
 
-Esta experiencia acumulada, es hoy la base de **mi nueva trayectoria**. Una evolución hacia un perfil más técnico, dentro de **42 Madrid**, construido desde los fundamentos del software, los sistemas y la infraestructura.
+Esta experiencia acumulada, es hoy la base de **mi nueva trayectoria**.
+
+Una evolución adaptada hacia un perfil más técnico, dentro de los clusters de [42 Madrid](https://www.42madrid.com/), y construido con los fundamentos del software, los sistemas y la infraestructura.
 
 ## 🧠 Resolución de problemas
 
