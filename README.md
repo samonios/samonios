@@ -21,18 +21,17 @@ Esta experiencia acumulada, es hoy la base de **mi nueva trayectoria**.
 Una evolución hacia un perfil más técnico, cuyo inicio comenzó dentro de los clusters de [42 Madrid](https://www.42madrid.com/), y que se va construyendo con los fundamentos del software, los sistemas y la infraestructura.
 
 ## 🧠 Resolución de problemas
-
 ¿Cómo me enfrento a ellos? No busco la solución más técnica y elaborada, sino la más eficiente bajo las premisas de:
 
 * 🔍 **Entender la raíz:** Divido los problemas complejos en partes más pequeñas para identificar la causa real, y no me centro en "parchear" el síntoma.
 * 📐 **Complejidad justificada:** Antepongo la claridad y la eficiencia. La complejidad solo es válida si aporta un valor real.
 * 🔁 **Probar y ajustar:** Testeo casos extremos y formulo hipótesis para encontrar errores y corregirlos.
 
-## 🛠️ Pensamiento lógico y algoritmos
 
+## 🛠️ Pensamiento lógico y algoritmos
 Para mí, saber escribir código no es suficiente. En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, dominar muchos lenguajes tiene un valor cada vez más limitado.
 
-Doy mucha más prioridad a **comprender el problema, entender qué ocurre detrás y razonar sobre cada capa del sistema**. El debugging no es una opción, forma parte de mi proceso de desarrollo y absorción de conocimientos.
+Doy más prioridad a **comprender el problema, entender qué ocurre detrás y razonar sobre cada capa del sistema**. El debugging no es una opción, sino que forma parte de mi proceso de desarrollo y absorción de conocimientos.
 
 **-> Trabajo estrictamente en este orden:**
 
@@ -41,7 +40,6 @@ Entender ➔ Estructurar ➔ Construir ➔ Probar ➔ Depurar ➔ Refinar
 ```
 
 ## 🚀 ¿Hacia dónde voy?
-
 Mi carrera está focalizada en **Sistemas, Infraestructura, Networking y Seguridad**.
 
 Y para ello, pretendo dominar lo qué ocurre por debajo de las abstracciones. Es decir: cómo funcionan los sistemas, cómo se comunican las máquinas y cómo se construye infraestructura **fiable, eficiente y segura**.
