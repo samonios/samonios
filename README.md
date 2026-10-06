@@ -4,9 +4,11 @@
 
 #### `-> @Samonios`
 
-> Utilizo este alias porque conecta dos cosas muy importantes para mí. **Samonios** es una palabra gala documentada en el calendario de Coligny y está vinculada a la **tradición celta** de Samain, asociada al comienzo de noviembre. Y, casualmente (o no), el **1 de noviembre** es también el día en que nací.
+> Utilizo este alias porque conecta agrupa mi esencia y mi fecha de nacimiento.
+>
+> **Samonios** es una palabra gala documentada en el calendario de Coligny que está vinculada a la **tradición celta** de Samain. Asociada al comienzo de noviembre. Y, casualmente (o no), el **1 de noviembre** es también el día en que nací.
 
-Un hermoso nick que agrupa mi esencia y mi fecha de nacimiento.
+Es un hermoso nick que agrupa mi esencia y mi fecha de nacimiento.
 
 ## 🧭 Sobre mí
 
