@@ -8,7 +8,7 @@
 >
 > **Samonios** es una palabra gala documentada en el calendario de Coligny que está vinculada a **la tradición celta** de Samain. Y asociada al comienzo del mes de noviembre. Casualmente (o no), el **1 de noviembre** es también el día en que nací.
 
-Un hermoso nick que une **mi esencia y mi fecha de nacimiento**.
+Un hermoso nick que une **esencia + fecha de nacimiento**.
 
 
 ## 🧭 Sobre mí
