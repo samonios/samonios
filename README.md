@@ -14,11 +14,12 @@ Un hermoso nick que une **mi esencia y mi fecha de nacimiento**.
 
 Durante más de 20 años he sido **diseñador gráfico y creativo publicitario**.
 
-Y en diferentes momentos de mi vida, ya sea como empresario o jefe de equipo, comprendí el valor de primero entender el problema, darle contexto, y encontrar las necesidades que hay detrás antes de plantear una solución.
+En diferentes momentos de mi vida, ya fuera como empresario o jefe de equipo, aprendí el valor de entender primero el problema, darle contexto y comprender las necesidades que hay detrás antes de plantear una solución.
 
-Esta experiencia acumulada, es hoy la base de **mi nueva trayectoria**.
+Esa experiencia es la base de **mi nueva trayectoria**.
 
-Una evolución hacia un perfil más técnico, cuyo inicio comenzó dentro de los clusters de [42 Madrid](https://www.42madrid.com/), y que se va construyendo con los fundamentos del software, los sistemas y la infraestructura.
+Hoy mi evolución toma un rumbo técnico. Un camino que comenzó en los clusters de [42 Madrid](https://www.42madrid.com/) y que estoy construyendo desde los fundamentos del software, los sistemas y la infraestructura.
+
 
 ## 🧠 Resolución de problemas
 ¿Cómo me enfrento a ellos? No busco la solución más técnica y elaborada, sino la más eficiente bajo las premisas de:
