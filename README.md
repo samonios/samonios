@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Sergio Valero
+# 👋 Sergio Valero
 
 > Estás leyendo la versión en 🇪🇸 **Español** // Also available in 🇬🇧 **English** [Read here](#english)
 
