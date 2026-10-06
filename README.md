@@ -18,7 +18,7 @@ Y en diferentes momentos de mi vida, ya sea como empresario o jefe de equipo, co
 
 Esta experiencia acumulada, es hoy la base de **mi nueva trayectoria**.
 
-Una evolución adaptada hacia un perfil más técnico, dentro de los clusters de [42 Madrid](https://www.42madrid.com/), y construido con los fundamentos del software, los sistemas y la infraestructura.
+Una evolución hacia un perfil más técnico, cuyo inicio comenzó dentro de los clusters de [42 Madrid](https://www.42madrid.com/), y que se va construyendo con los fundamentos del software, los sistemas y la infraestructura.
 
 ## 🧠 Resolución de problemas
 
@@ -26,13 +26,13 @@ Una evolución adaptada hacia un perfil más técnico, dentro de los clusters de
 
 * 🔍 **Entender la raíz:** Divido los problemas complejos en partes más pequeñas para identificar la causa real, y no me centro en "parchear" el síntoma.
 * 📐 **Complejidad justificada:** Antepongo la claridad y la eficiencia. La complejidad solo es válida si aporta un valor real.
-* 🔁 **Probar y ajustar:** Testeo con casos extremos y formulo hipótesis para encontrar errores y corregirlos.
+* 🔁 **Probar y ajustar:** Testeo casos extremos y formulo hipótesis para encontrar errores y corregirlos.
 
 ## 🛠️ Pensamiento lógico y algoritmos
 
 Para mí, saber escribir código no es suficiente. En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, dominar muchos lenguajes tiene un valor cada vez más limitado.
 
-A lo que realmente doy prioridad es a **comprender el problema, entender qué ocurre detrás y razonar sobre cada capa del sistema**. El debugging no es una opción, forma parte de mi proceso de desarrollo y absorción de conocimientos.
+Doy mucha más prioridad a **comprender el problema, entender qué ocurre detrás y razonar sobre cada capa del sistema**. El debugging no es una opción, forma parte de mi proceso de desarrollo y absorción de conocimientos.
 
 **-> Trabajo estrictamente en este orden:**
 
@@ -42,9 +42,9 @@ Entender ➔ Estructurar ➔ Construir ➔ Probar ➔ Depurar ➔ Refinar
 
 ## 🚀 ¿Hacia dónde voy?
 
-Mi carrera está orientada hacia **Sistemas, Infraestructura, Networking y Seguridad**.
+Mi carrera está focalizada en **Sistemas, Infraestructura, Networking y Seguridad**.
 
-Y para ello, pretendo dominar lo qué ocurre por debajo de las abstracciones. Es decir: cómo funcionan los sistemas, cómo se comunican las máquinas y cómo se construye infraestructura fiable, eficiente y segura.
+Y para ello, pretendo dominar lo qué ocurre por debajo de las abstracciones. Es decir: cómo funcionan los sistemas, cómo se comunican las máquinas y cómo se construye infraestructura **fiable, eficiente y segura**.
 
 Estos son los hitos de mi ruta:
 
@@ -56,10 +56,10 @@ Estos son los hitos de mi ruta:
 * [ ] 🧩 **Especialización:** sistemas distribuidos, almacenamiento, bases de datos y **AI Infrastructure**.
 
 ---
-#### 🏁 Inicio 🏆 Logros y 💾 Proyectos.
+#### / 🏁 Inicio / 🏆 Logros / 💾 Proyectos.
 
-* El 29 Julio de 2026 terminé el proceso de la [piscina 42 Madrid](https://www.42madrid.com/piscina/) en el puesto #6 con una puntuación de ⚡9.18 frente a una participación de 206 estudiantes.
-* El 21 de Septiembre tuvo mi Kick-Off.
+* El 29 Julio de 2026 terminé el proceso de selección [piscina 42 Madrid](https://www.42madrid.com/piscina/) en el puesto #6 con una puntuación de ⚡9.18 frente a una participación de 206 estudiantes.
+* El 21 de Septiembre del mismo año comenzó mi Kick-Off.
 * 
 
 ### 💬 Ask me about ...
