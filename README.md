@@ -26,7 +26,7 @@ Un rumbo que nació en los clusters de [42 Madrid](https://www.42madrid.com/) y 
 ¿Cómo me enfrento a ellos? No busco la solución más técnica y elaborada, sino la más eficiente bajo las premisas de:
 
 * 🔍 **Entender la raíz:** Divido los problemas complejos en partes más pequeñas para identificar la causa real, y no me centro en "parchear" el síntoma.
-* 📐 **Complejidad justificada:** Antepongo la claridad y la eficiencia. La complejidad solo es válida si aporta un valor real.
+* 📐 **Complejidad justificada:** Antepongo la claridad y la eficiencia. Solo acepto la complejidad cuando aporta un valor real, ya sea reduciendo el consumo de recursos o mejorando el rendimiento.
 * 🔁 **Probar y ajustar:** Testeo casos extremos y formulo hipótesis para encontrar errores y corregirlos.
 
 
@@ -44,7 +44,7 @@ Entender ➔ Estructurar ➔ Construir ➔ Probar ➔ Depurar ➔ Refinar
 ## 🚀 ¿Hacia dónde voy?
 Mi carrera está focalizada en **Sistemas, Infraestructura, Networking y Seguridad**.
 
-Y para ello, pretendo dominar lo qué ocurre por debajo de las abstracciones. Es decir: cómo funcionan los sistemas, cómo se comunican las máquinas y cómo se construye infraestructura **fiable, eficiente y segura**.
+Y para ello, pretendo dominar lo qué ocurre por debajo de las abstracciones. Es decir: cómo funcionan los sistemas, cómo se comunican las máquinas y cómo se construye una infraestructura **fiable, eficiente y segura**.
 
 Estos son los hitos de mi ruta:
 
@@ -58,7 +58,7 @@ Estos son los hitos de mi ruta:
 ---
 #### / 🏁 Inicio / 🏆 Logros / 💾 Proyectos.
 
-* El 29 Julio de 2026 terminé el proceso de selección [piscina 42 Madrid](https://www.42madrid.com/piscina/) en el puesto #6 con una puntuación de ⚡9.18 frente a una participación de 206 estudiantes.
+* El **29 de julio de 2026** completé el proceso de selección de la [Piscina 42 Madrid](https://www.42madrid.com/piscina/), con una puntuación de ⚡ **9,18**, y quedando en el **puesto #6** entre **206 participantes**.
 * El 21 de Septiembre del mismo año comenzó mi Kick-Off.
 * 
 
