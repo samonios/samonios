@@ -62,7 +62,7 @@ Estos son los hitos de mi ruta:
 
   Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
 
-#### COMMON CORE * **Durante el Common-Core**
+#### 42 · COMMON CORE
 * ⚡ 2º puesto en el Hackathon 42442. Una iniciativa para "identificar un dolor" y codificar la solución que mejorara la vida del campus 42.
 
   Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
