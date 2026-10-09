@@ -22,19 +22,17 @@ Y hoy, esa expereriencia es **la base de mi nueva trayectoria**.
 Un nuevo rumbo que nació en los clusters de [42 Madrid](https://www.42madrid.com/) y que sigo construyendo hacia un perfil técnico, desde los fundamentos del software, los sistemas y la infraestructura.
 
 
-## 🧠 Algoritmos y pensamiento lógico.
+## 🧠 Algoritmos y pensamiento lógico
 
 Saber escribir código no es suficiente.
 
-En un contexto donde **la IA puede generar código en cualquier lenguaje**, considero que dominar múltiples sintaxis tiene un valor cada vez más limitado. Mi prioridad como programador es **entender qué ocurre en cada capa del sistema**. Y afrontar la resolución de problemas sin perseguir necesariamente la solución más técnica, sino la más eficiente y justificada.
-
-Mi enfoque se basa en tres principios:
+Mi prioridad como programador es **entender qué ocurre en cada capa del sistema**. Y afrontar la resolución de problemas sin perseguir necesariamente la solución más técnica, sino la más eficiente y justificada. Mi enfoque se basa en tres principios:
 
 - 🔍 **Entender la raíz:** Divido los problemas en partes más pequeñas para identificar sus causas reales, en lugar de limitarme a parchear los síntomas.
 - 📐 **Complejidad justificada:** Priorizo la claridad y la eficiencia. Solo acepto complejidad adicional cuando aporta un valor real, ya sea mejorando el rendimiento, reduciendo el consumo de recursos o facilitando la escalabilidad.
 - 🔁 **Probar y ajustar:** Formulo hipótesis, pruebo casos extremos y analizo los resultados para detectar errores y verificar el comportamiento esperado.
 
-Considero que el valor de un buen programador no está en escribir código que simplemente funcione, sino en verificar que responde como se espera. Y por eso, el **debugging** es para mi una parte esencial del proceso de desarrollo.
+En un contexto donde la IA puede generar código en cualquier lenguaje, opino que el valor de un buen programador reside en **dominar los fundamentos** y tener la capacidad de encontrar errores, más allá de escribir código que simplemente funcione.
 
 ## 🚀 ¿Hacia dónde voy?
 Mi carrera está focalizada en **Sistemas, Infraestructura, Networking y Seguridad**.
