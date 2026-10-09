@@ -33,7 +33,7 @@ Un rumbo que nació en los clusters de [42 Madrid](https://www.42madrid.com/) y 
 ## 🛠️ Pensamiento lógico y algoritmos
 Para mí, saber escribir código no es suficiente. En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, dominar muchos lenguajes tiene un valor cada vez más limitado.
 
-Doy más prioridad a **comprender el problema, entender qué ocurre detrás y razonar sobre cada capa del sistema**. El debugging no es una opción, sino que forma parte de mi proceso de desarrollo y absorción de conocimientos.
+Doy más prioridad a **comprender el problema, entender qué ocurre detrás y razonar sobre cada capa del sistema**. El debugging no es una opción de código, sino la parte diferenciadora de mi proceso de desarrollo, control de fallos y absorción de conocimientos.
 
 **-> Trabajo estrictamente en este orden:**
 
@@ -61,5 +61,8 @@ Estos son los hitos de mi ruta:
 
   Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
 
-* Durante el Common-Core...
+* **Durante el Common-Core**
+* ⚡ 2º puesto en el Hackathon 42442. Una iniciativa para "identificar un dolor" y codificar la solución que mejorara la vida del campus 42.
+
+  Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
 
