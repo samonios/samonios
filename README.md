@@ -56,12 +56,13 @@ Estos son los hitos de mi ruta:
 * [ ] 🧩 **Especialización:** sistemas distribuidos, almacenamiento, bases de datos y **AI Infrastructure**.
 
 ---
-#### / 🏁 Inicio / 🏆 Logros / 💾 Proyectos.
+## / 🏁 Inicio / 🏆 Logros / 💾 Proyectos.
+#### PISCINA
 * Obtuve una puntuación de ⚡ **9,18** en el **proceso de selección** [Piscina 42 Madrid](https://www.42madrid.com/piscina/). Y quedé en el puesto **sexto entre 206 participantes**.
 
   Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
 
-* **Durante el Common-Core**
+#### COMMON CORE * **Durante el Common-Core**
 * ⚡ 2º puesto en el Hackathon 42442. Una iniciativa para "identificar un dolor" y codificar la solución que mejorara la vida del campus 42.
 
   Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
