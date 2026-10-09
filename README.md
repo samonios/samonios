@@ -30,7 +30,7 @@ Un rumbo que nació en los clusters de [42 Madrid](https://www.42madrid.com/) y 
 * 🔁 **Probar y ajustar:** Testeo casos extremos y formulo hipótesis para encontrar errores y corregirlos.
 
 
-## 🔢 Pensamiento lógico y algoritmos
+## 📑 Pensamiento lógico y algoritmos
 Para mí, saber escribir código no es suficiente. En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, dominar muchos lenguajes tiene un valor cada vez más limitado.
 
 Doy más prioridad a **comprender el problema, entender qué ocurre detrás y razonar sobre cada capa del sistema**. El debugging no es una opción de código, sino la parte diferenciadora de mi proceso de desarrollo, control de fallos y absorción de conocimientos.
