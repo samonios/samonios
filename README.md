@@ -34,9 +34,7 @@ Mi enfoque se basa en tres principios:
 - 📐 **Complejidad justificada:** Priorizo la claridad y la eficiencia. Solo acepto complejidad adicional cuando aporta un valor real, ya sea mejorando el rendimiento, reduciendo el consumo de recursos o facilitando la escalabilidad.
 - 🔁 **Probar y ajustar:** Formulo hipótesis, pruebo casos extremos y analizo los resultados para detectar errores y verificar el comportamiento esperado.
 
-Yo considero que el valor de un buen programador no está en escribir código que simplemente funcione, sino en **verificar que el código responde como se espera**.
-
-Y por eso doy tanta importancia al *debugging*. No solo como herramienta para encontrar fallos, sino también para contrastar hipótesis, comprobar los fundamentos y profundizar en el funcionamiento del sistema.
+Considero que el valor de un buen programador no está en escribir código que simplemente funcione, sino en verificar que responde como se espera. Y por eso, el **debugging** es para mi una parte esencial del proceso de desarrollo.
 
 ## 🚀 ¿Hacia dónde voy?
 Mi carrera está focalizada en **Sistemas, Infraestructura, Networking y Seguridad**.
