@@ -17,9 +17,9 @@ Durante más de 20 años he sido **diseñador gráfico y creativo publicitario**
 
 En diferentes momentos de mi vida, ya fuera como empresario o jefe de equipo, aprendí el valor de entender primero el problema, darle contexto y comprender las necesidades que hay detrás, antes de plantear una solución.
 
-Hoy es la base de **mi nueva trayectoria**.
+Hoy, esa expereriencia es el pilar de **mi nueva trayectoria**.
 
-Un rumbo que nació en los clusters de [42 Madrid](https://www.42madrid.com/) y que hoy sigo construyendo hacia un perfil técnico, desde los fundamentos del software, los sistemas y la infraestructura.
+Un rumbo que nació en los clusters de [42 Madrid](https://www.42madrid.com/) y que sigo construyendo hacia un perfil técnico, desde los fundamentos del software, los sistemas y la infraestructura.
 
 
 ## 🧠 Resolución de problemas
