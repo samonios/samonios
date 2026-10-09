@@ -19,14 +19,14 @@ En diferentes momentos de mi vida, ya fuera como empresario o jefe de equipo, ap
 
 Y hoy, esa expereriencia es **la base de mi nueva trayectoria**.
 
-Un rumbo que nació en los clusters de [42 Madrid](https://www.42madrid.com/) y que sigo construyendo hacia un perfil técnico, desde los fundamentos del software, los sistemas y la infraestructura.
+Un nuevo rumbo que nació en los clusters de [42 Madrid](https://www.42madrid.com/) y que sigo construyendo hacia un perfil técnico, desde los fundamentos del software, los sistemas y la infraestructura.
 
 
 ## 🧠 Algoritmos y pensamiento lógico.
 
 Saber escribir código no es suficiente.
 
-En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, considero que dominar múltiples sintaxis tiene un valor cada vez más limitado. Mi prioridad es **entender qué ocurre en cada capa del sistema** y afrontar la resolución de problemas sin perseguir necesariamente la solución más técnica, sino la más eficiente y justificada.
+En un contexto donde **la IA puede generar código en cualquier lenguaje**, considero que dominar múltiples sintaxis tiene un valor cada vez más limitado. Mi prioridad como programador es **entender qué ocurre en cada capa del sistema**. Y afrontar la resolución de problemas sin perseguir necesariamente la solución más técnica, sino la más eficiente y justificada.
 
 Mi enfoque se basa en tres principios:
 
@@ -34,7 +34,9 @@ Mi enfoque se basa en tres principios:
 - 📐 **Complejidad justificada:** Priorizo la claridad y la eficiencia. Solo acepto complejidad adicional cuando aporta un valor real, ya sea mejorando el rendimiento, reduciendo el consumo de recursos o facilitando la escalabilidad.
 - 🔁 **Probar y ajustar:** Formulo hipótesis, pruebo casos extremos y analizo los resultados para detectar errores y verificar el comportamiento esperado.
 
-Considero que el valor de un buen programador no está únicamente en escribir código que funcione, sino en **comprender por qué funciona, detectar por qué falla y verificar que el código responde como se espera**. Por eso, doy especial importancia al *debugging*, tanto para validar los fundamentos como para profundizar en el funcionamiento del sistema.
+Yo considero que el valor de un buen programador no está en escribir código que simplemente funcione, sino en **verificar que el código responde como se espera**.
+
+Y por eso doy tanta importancia al *debugging*. No solo como herramienta para encontrar fallos, sino también para contrastar hipótesis, comprobar los fundamentos y profundizar en el funcionamiento del sistema.
 
 ## 🚀 ¿Hacia dónde voy?
 Mi carrera está focalizada en **Sistemas, Infraestructura, Networking y Seguridad**.
