@@ -17,24 +17,20 @@ Durante más de 20 años he sido **diseñador gráfico y creativo publicitario**
 
 En diferentes momentos de mi vida, ya fuera como empresario o jefe de equipo, aprendí el valor de entender primero el problema, darle contexto y comprender las necesidades que hay detrás, antes de plantear una solución.
 
-Hoy, esa expereriencia es **la base de mi nueva trayectoria**.
+Y hoy, esa expereriencia es **la base de mi nueva trayectoria**.
 
 Un rumbo que nació en los clusters de [42 Madrid](https://www.42madrid.com/) y que sigo construyendo hacia un perfil técnico, desde los fundamentos del software, los sistemas y la infraestructura.
 
 
-## 🧠 Pensamiento lógico y resolución de problemas.
+## 🧠 Algoritmos y pensamiento lógico.
 
-Saber escribir código no es suficiente. Doy mucho valor a dominar el debugging para validar el comportamiento, **detectar los fallos y profundizar en el conocimiento del sistema**. Yo no persigo la solución más técnica, sino la más eficiente y justificada bajo las premisas de:
+Saber escribir código no es suficiente. Para mi es más valioso saber validar el comportamiento a través del debugging y **profundizar en el conocimiento del sistema**. Yo afronto la resolución de problemas sin perseguir necesariamente la solución más técnica, sino la más eficiente y justificada bajo las premisas de:
 
 - 🔍 **Entender la raíz:** Divido los problemas en partes pequeñas para identificar la causa, en lugar de centrarme en parchear los síntomas.
 - 📐 **Complejidad justificada:** Priorizo la claridad y la eficiencia. Solo acepto complejidad si aporta un valor real, ya sea reduciendo el consumo de recursos o mejorando el rendimiento.
-- 🔁 **Probar y ajustar:** Formulo hipótesis, testeo casos extremos y analizo los errores para comprender y corregir.
+- 🔁 **Probar y ajustar:** Formulo hipótesis, testeo casos extremos y analizo los posibles errores.
 
-En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, considero que dominar diferentes sintaxis tiene un valor cada vez más limitado. Doy más prioridad a **comprender el problema, entender qué ocurre detrás y razonar sobre cada capa del sistema**.
-
-#### -> Mi proceso sigue estrictamente este orden:
-
-`Entender ➔ Estructurar ➔ Construir ➔ Probar ➔ Depurar ➔ Refinar`
+En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, considero que dominar multiples sintaxis tiene un valor cada vez más limitado. Mi prioridad es **entender qué ocurre en cada capa del sistema** y comprender los fundamentos que sustentan su funcionamiento.
 
 ## 🚀 ¿Hacia dónde voy?
 Mi carrera está focalizada en **Sistemas, Infraestructura, Networking y Seguridad**.
