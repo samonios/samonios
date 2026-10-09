@@ -60,10 +60,10 @@ Estos son los hitos de mi ruta:
 #### PISCINA
 * Obtuve una puntuación de ⚡ **9,18** en el proceso de selección [Piscina 42 Madrid](https://www.42madrid.com/piscina/). Y entre 206 participantes de mi promoción quedé en el **puesto #6**.
 
-  Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
+  > Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
 
 #### 42 · COMMON CORE
 * Participé en el Hackathon 42442. Una iniciativa para "identificar un dolor" y codificar la solución que mejorara la vida dentro del campus. Y junto a mi compañero de equipo, quedé en ⚡ **el #2 puesto**.
 * 
 
-  Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
+  > Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
