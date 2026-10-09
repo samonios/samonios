@@ -1,6 +1,6 @@
 # Hola! 👋 Soy Sergio Valero
 
-> Also available in 🇬🇧 **English** [Read here](#english) // Estás leyendo la versión en 🇪🇸 **Español**
+> Also available in 🇬🇧 **English** [(read here)](#english) // Estás leyendo la versión en 🇪🇸 **Español**
 
 #### `-> @Samonios`
 
@@ -11,35 +11,30 @@
 Un hermoso nick que une **esencia + fecha de nacimiento**.
 
 
-## 🧭 Sobre mí
+## 🧭 Sobre mí.
 
 Durante más de 20 años he sido **diseñador gráfico y creativo publicitario**.
 
 En diferentes momentos de mi vida, ya fuera como empresario o jefe de equipo, aprendí el valor de entender primero el problema, darle contexto y comprender las necesidades que hay detrás, antes de plantear una solución.
 
-Hoy, esa expereriencia es la base de **mi nueva trayectoria**.
+Hoy, esa expereriencia es **la base de mi nueva trayectoria**.
 
 Un rumbo que nació en los clusters de [42 Madrid](https://www.42madrid.com/) y que sigo construyendo hacia un perfil técnico, desde los fundamentos del software, los sistemas y la infraestructura.
 
 
-## 🧠 Resolución de problemas
-¿Cómo me enfrento a ellos? No busco la solución más técnica y elaborada, sino la más eficiente bajo las premisas de:
+## 🧠 Pensamiento lógico y resolución de problemas.
 
-* 🔍 **Entender la raíz:** Divido los problemas complejos en partes más pequeñas para identificar la causa real, y no me centro en "parchear" el síntoma.
-* 📐 **Complejidad justificada:** Antepongo la claridad y la eficiencia. Solo acepto la complejidad cuando aporta un valor real, ya sea reduciendo el consumo de recursos o mejorando el rendimiento.
-* 🔁 **Probar y ajustar:** Testeo casos extremos y formulo hipótesis para encontrar errores y corregirlos.
+Saber escribir código no es suficiente. Doy mucho valor a dominar el debugging para validar el comportamiento, **detectar los fallos y profundizar en el conocimiento del sistema**. Yo no persigo la solución más técnica, sino la más eficiente y justificada bajo las premisas de:
 
+- 🔍 **Entender la raíz:** Divido los problemas en partes pequeñas para identificar la causa, en lugar de centrarme en parchear los síntomas.
+- 📐 **Complejidad justificada:** Priorizo la claridad y la eficiencia. Solo acepto complejidad si aporta un valor real, ya sea reduciendo el consumo de recursos o mejorando el rendimiento.
+- 🔁 **Probar y ajustar:** Formulo hipótesis, testeo casos extremos y analizo los errores para comprender y corregir.
 
-## 🛠️ Pensamiento lógico y algoritmos
-Para mí, saber escribir código no es suficiente. En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, dominar muchos lenguajes tiene un valor cada vez más limitado.
+En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, considero que dominar diferentes sintaxis tiene un valor cada vez más limitado. Doy más prioridad a **comprender el problema, entender qué ocurre detrás y razonar sobre cada capa del sistema**.
 
-Doy más prioridad a **comprender el problema, entender qué ocurre detrás y razonar sobre cada capa del sistema**. El debugging no es una opción de código, sino la parte diferenciadora de mi proceso de desarrollo, control de fallos y absorción de conocimientos.
+#### -> Mi proceso sigue estrictamente este orden:
 
-**-> Trabajo estrictamente en este orden:**
-
-```text
-Entender ➔ Estructurar ➔ Construir ➔ Probar ➔ Depurar ➔ Refinar
-```
+`Entender ➔ Estructurar ➔ Construir ➔ Probar ➔ Depurar ➔ Refinar`
 
 ## 🚀 ¿Hacia dónde voy?
 Mi carrera está focalizada en **Sistemas, Infraestructura, Networking y Seguridad**.
@@ -56,13 +51,9 @@ Estos son los hitos de mi ruta:
 * [ ] 🧩 **Especialización:** sistemas distribuidos, almacenamiento, bases de datos y **AI Infrastructure**.
 
 
-## / 🏁 Inicio / 🏆 Logros / 💾 Proyectos.
-#### -Piscina
-* Obtuve una puntuación de ⚡ **9,18** y escalé hasta el **puesto #6** en el proceso de selección [Piscina 42 Madrid](https://www.42madrid.com/piscina/). En mi promoción hubo un total de 206 participantes.
+## 🏆 Logros.
+* Obtuve una puntuación de ⚡ **9,18** y escalé hasta el **puesto #6** en el proceso de selección [Piscina 42 Madrid](https://www.42madrid.com/piscina/). En mi promoción hubo un total de 206 participantes. Revisa aquí mis **proyectos superados**. (enlace pendiente).
 
-  > Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
-
-#### -Common core
 * Logré el ⚡ **2º puesto** junto a mi compañero de equipo, en el Hackathon 42442. Una iniciativa para "identificar un dolor" y codificar la solución (app o web) que mejorara la vida dentro del campus.
 
   > Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
