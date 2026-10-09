@@ -55,7 +55,7 @@ Estos son los hitos de mi ruta:
 * [ ] 🔐 **Seguridad:** protección y resiliencia aplicada a sistemas, redes e infraestructura.
 * [ ] 🧩 **Especialización:** sistemas distribuidos, almacenamiento, bases de datos y **AI Infrastructure**.
 
----
+
 ## / 🏁 Inicio / 🏆 Logros / 💾 Proyectos.
 #### PISCINA
 * Obtuve una puntuación de ⚡ **9,18** en el **proceso de selección** [Piscina 42 Madrid](https://www.42madrid.com/piscina/). Y quedé en el puesto **sexto entre 206 participantes**.
