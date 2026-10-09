@@ -1,6 +1,6 @@
-# 👋 Sergio Valero
+# Hola! 👋 Soy Sergio Valero
 
-> Estás leyendo la versión en 🇪🇸 **Español** // Also available in 🇬🇧 **English** [Read here](#english)
+> Also available in 🇬🇧 **English** [Read here](#english) // Estás leyendo la versión en 🇪🇸 **Español**
 
 #### `-> @Samonios`
 
@@ -30,7 +30,7 @@ Un rumbo que nació en los clusters de [42 Madrid](https://www.42madrid.com/) y 
 * 🔁 **Probar y ajustar:** Testeo casos extremos y formulo hipótesis para encontrar errores y corregirlos.
 
 
-## 📑 Pensamiento lógico y algoritmos
+## 🛠️ Pensamiento lógico y algoritmos
 Para mí, saber escribir código no es suficiente. En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, dominar muchos lenguajes tiene un valor cada vez más limitado.
 
 Doy más prioridad a **comprender el problema, entender qué ocurre detrás y razonar sobre cada capa del sistema**. El debugging no es una opción de código, sino la parte diferenciadora de mi proceso de desarrollo, control de fallos y absorción de conocimientos.
@@ -63,7 +63,6 @@ Estos son los hitos de mi ruta:
   > Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
 
 #### -Common core
-* Junto a mi compañero, quedé en el puesto ⚡ **#2** en el Hackathon 42442. Una iniciativa para "identificar un dolor" y codificar una solución que mejorara la vida dentro del campus.
-* Esperando actualizarse...
+* Junto a mi compañero de equipo, quedé en el puesto ⚡ **#2** en el Hackathon 42442. Una iniciativa para "identificar un dolor" y codificar la solución (app o web) que mejorara la vida dentro del campus.
 
   > Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
