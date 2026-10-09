@@ -44,7 +44,7 @@ Entender ➔ Estructurar ➔ Construir ➔ Probar ➔ Depurar ➔ Refinar
 ## 🚀 ¿Hacia dónde voy?
 Mi carrera está focalizada en **Sistemas, Infraestructura, Networking y Seguridad**.
 
-Y para ello, pretendo dominar lo qué ocurre por debajo de las abstracciones. Es decir: cómo funcionan los sistemas, cómo se comunican las máquinas y cómo se construye una infraestructura **fiable, eficiente y segura**.
+Y para ello, pretendo dominar lo que ocurre por debajo de las abstracciones. Es decir: cómo funcionan los sistemas, cómo se comunican las máquinas y cómo se construye una infraestructura **fiable, eficiente y segura**.
 
 Estos son los hitos de mi ruta:
 
