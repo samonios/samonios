@@ -24,13 +24,17 @@ Un rumbo que nació en los clusters de [42 Madrid](https://www.42madrid.com/) y 
 
 ## 🧠 Algoritmos y pensamiento lógico.
 
-Saber escribir código no es suficiente. Para mi es más valioso saber validar el comportamiento a través del debugging y **profundizar en el conocimiento del sistema**. Yo afronto la resolución de problemas sin perseguir necesariamente la solución más técnica, sino la más eficiente y justificada bajo las premisas de:
+Saber escribir código no es suficiente.
 
-- 🔍 **Entender la raíz:** Divido los problemas en partes pequeñas para identificar la causa, en lugar de centrarme en parchear los síntomas.
-- 📐 **Complejidad justificada:** Priorizo la claridad y la eficiencia. Solo acepto complejidad si aporta un valor real, ya sea reduciendo el consumo de recursos o mejorando el rendimiento.
-- 🔁 **Probar y ajustar:** Formulo hipótesis, testeo casos extremos y analizo los posibles errores.
+En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, considero que dominar múltiples sintaxis tiene un valor cada vez más limitado. Mi prioridad es **entender qué ocurre en cada capa del sistema** y afrontar la resolución de problemas sin perseguir necesariamente la solución más técnica, sino la más eficiente y justificada.
 
-En un contexto donde la IA puede generar código en prácticamente cualquier lenguaje, considero que dominar multiples sintaxis tiene un valor cada vez más limitado. Mi prioridad es **entender qué ocurre en cada capa del sistema** y comprender los fundamentos que sustentan su funcionamiento.
+Mi enfoque se basa en tres principios:
+
+- 🔍 **Entender la raíz:** Divido los problemas en partes más pequeñas para identificar sus causas reales, en lugar de limitarme a parchear los síntomas.
+- 📐 **Complejidad justificada:** Priorizo la claridad y la eficiencia. Solo acepto complejidad adicional cuando aporta un valor real, ya sea mejorando el rendimiento, reduciendo el consumo de recursos o facilitando la escalabilidad.
+- 🔁 **Probar y ajustar:** Formulo hipótesis, pruebo casos extremos y analizo los resultados para detectar errores y verificar el comportamiento esperado.
+
+Considero que el valor de un buen programador no está únicamente en escribir código que funcione, sino en **comprender por qué funciona, detectar por qué falla y verificar que el código responde como se espera**. Por eso, doy especial importancia al *debugging*, tanto para validar los fundamentos como para profundizar en el funcionamiento del sistema.
 
 ## 🚀 ¿Hacia dónde voy?
 Mi carrera está focalizada en **Sistemas, Infraestructura, Networking y Seguridad**.
