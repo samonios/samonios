@@ -63,7 +63,7 @@ Estos son los hitos de mi ruta:
   > Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
 
 #### -Common core
-* Junto a mi compañero, quedé en el puesto ⚡ **#2** en el Hackathon 42442. Una iniciativa para "identificar un dolor" y codificar la solución que mejorara la vida dentro del campus.
+* Junto a mi compañero, quedé en el puesto ⚡ **#2** en el Hackathon 42442. Una iniciativa para "identificar un dolor" y codificar una solución que mejorara la vida dentro del campus.
 * Esperando actualizarse...
 
   > Revisa aquí mi repositorio de **proyectos superados**. (enlace pendiente).
